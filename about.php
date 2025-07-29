@@ -61,8 +61,91 @@
 	</div><!-- /.container -->
 </div>
 <!--Our expertise section one end -->
+<!-- Services start -->
+<div class="ed_transprentbg ed_toppadder90 ed_bottompadder60">
+	<div class="container">
+		<div class="row">
+
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course style_2 mvt-container">
+					<div class="ed_item_img">
+						<img src="assets/images/mission.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="javascript:void(0);">OUR MISSION</a></h4>
+						<p>We are a performance driven company that follow the principle “Grow your business with us” .
+							We provide creative and customized solution for our customers to meet their objective.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course style_2 mvt-container">
+					<div class="ed_item_img">
+						<img src="assets/images/spy.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="javascript:void(0);">OUR VISION</a></h4>
+						<p>We intend to be the company that best understands and offer services for profitability of our
+							customers globally with expertise and innovation.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course style_2 mvt-container">
+					<div class="ed_item_img">
+						<img src="assets/images/team.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="javascript:void(0);">OUR TEAM</a></h4>
+						<p>we are committed to make Vipul Infra Projects a great place to work. We accomplish this while
+							following our Ideologies in an operating environment that enables corporate and personal
+							growth.</p>
+					</div>
+				</div>
+			</div>
+
+
+
+		</div>
+	</div><!-- /.container -->
+</div>
+<!-- Services end -->
+<!--chart section start -->
+<!--chart section start -->
+<div class="ed_transprentbg ed_toppadder100">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+				<div class="ed_chart_ratio">
+					<i class="fa fa-bus" aria-hidden="true"></i>
+					<h4>OUR MISSION</h4>
+					<p>We are a performance driven company that follow the principle “Grow your business with us” . We provide creative and customized solution for our customers to meet their objective.</p>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+				<div class="ed_chart_ratio">
+					<i class="fa fa-plane" aria-hidden="true"></i>
+					<h4>OUR VISION</h4>
+					<p>We intend to be the company that best understands and offer services for profitability of our customers globally with expertise and innovation.</p>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+				<div class="ed_chart_ratio">
+					<i class="fa fa-ship" aria-hidden="true"></i>
+					<h4>OUR TEAM</h4>
+					<p>we are committed to make Vipul Infra Systems a great place to work. We accomplish this while following our Ideologies in an operating environment that enables corporate and personal growth.</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- chart Section end -->
+<!-- chart Section end -->
 <!--skill section start -->
-<div class="ed_graysection ed_toppadder90 ed_bottompadder60">
+ <!-- <div class="ed_graysection ed_toppadder90 ed_bottompadder60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -114,7 +197,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div>   -->
 <!--skill section end -->
 <!--Timer Section three start -->
 <div class="ed_timer_section ed_timer_section_padd_0 ed_toppadder90 ed_bottompadder60">
@@ -128,28 +211,22 @@
 			</div>
 			<div class="ed_counter_wrapper">
 				<div class="row">
-					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 						<div class="ed_counter">
-							<h2 class="timer" data-from="0" data-to="200" data-speed="5000">.</h2>
-							<h4>Offices Worldwide</h4>
+							<h2 class="timer" data-from="0" data-to="2016" data-speed="5000"></h2>
+							<h4>Year of Establishment</h4>
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 						<div class="ed_counter">
-							<h2 class="timer" data-from="0" data-to="800" data-speed="5000">.</h2>
-							<h4>Hardworking People</h4>
+							<h2 class="timer" data-from="0" data-to="350" data-speed="5000">+</h2>
+							<h4>Dedicated Employee</h4>
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+					<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 						<div class="ed_counter">
-							<h2 class="timer" data-from="0" data-to="60" data-speed="5000">.</h2>
-							<h4>Countries Covered</h4>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-						<div class="ed_counter">
-							<h2 class="timer" data-from="0" data-to="12" data-speed="5000">.</h2>
-							<h4>Years of Experiences</h4>
+							<h2 class="timer" data-from="0" data-to="2" data-speed="5000"></h2><span class="">Million+</span>
+							<h4>Complete Square Metal & Continue</h4>
 						</div>
 					</div>
 				</div>

@@ -60,6 +60,7 @@ body {
 }
 /*--------- Body End -------*/
 /*---------- Normal css start -------*/
+
 a {
 	color: #272727;
 	text-decoration: none;
@@ -6071,3 +6072,6 @@ body.menu_open .pro_menu {
 		padding-top: 45px;
 	}
 }
+
+
+

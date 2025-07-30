@@ -4,3 +4,80 @@
 }
 
 
+
+/*=================Counter Style==================*/
+.cs_counter_wrapper{
+  
+}
+.ed_counter{
+  padding: 80px 0 0px;
+  background-color: #fff;
+}
+/* .cs_counter_wrapper{
+   background-image: url(../images/index7/count_img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+.    }
+.cs_counter_wrapper:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.96;
+    background: #2a2a32;
+    z-index: -1;
+} */
+ 
+.cs_counter_icon svg {
+    fill: #fff;
+}
+.cs_counter_icon_box {
+    text-align: center;
+}
+.cs_counter_icon p {
+    fill: #fff;
+    background: #43444b;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 10px solid #2e2f37;
+    position: relative;
+}
+.cs_counter_text h1 {
+    padding: 20px 0px 8px;
+    font-size: 36px;
+    font-weight: bold;
+}
+.cs_counter_text p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.cs_counter_icon p:after {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border: 1px dashed #4e4e4e;
+    border-radius: 50px;
+    top: -10px;
+    left: -10px;
+    animation-name: spin;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}

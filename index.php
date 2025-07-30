@@ -366,21 +366,25 @@ include 'components/header.php';
 				<div class="ed_chart_ratio">
 					<i class="fa fa-bus" aria-hidden="true"></i>
 					<h4>OUR MISSION</h4>
-					<p>We are a performance driven company that follow the principle “Grow your business with us” . We provide creative and customized solution for our customers to meet their objective.</p>
+					<p>We are a performance driven company that follow the principle “Grow your business with us” . We
+						provide creative and customized solution for our customers to meet their objective.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_chart_ratio">
 					<i class="fa fa-plane" aria-hidden="true"></i>
 					<h4>OUR VISION</h4>
-					<p>We intend to be the company that best understands and offer services for profitability of our customers globally with expertise and innovation.</p>
+					<p>We intend to be the company that best understands and offer services for profitability of our
+						customers globally with expertise and innovation.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_chart_ratio">
 					<i class="fa fa-ship" aria-hidden="true"></i>
 					<h4>OUR TEAM</h4>
-					<p>we are committed to make Vipul Infra Systems a great place to work. We accomplish this while following our Ideologies in an operating environment that enables corporate and personal growth.</p>
+					<p>we are committed to make Vipul Infra Systems a great place to work. We accomplish this while
+						following our Ideologies in an operating environment that enables corporate and personal growth.
+					</p>
 				</div>
 			</div>
 
@@ -754,53 +758,84 @@ include 'components/header.php';
 	</div><!-- /.container -->
 </div>
 <!--Testimonial end -->
-<!--client section start -->
-<div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
+<!-- gallery section start -->
+<div class="ed_transprentbg ed_toppadder90 ed_bottompadder60">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_heading_top ed_bottompadder50">
-					<h3>our partners</h3>
+					<h3>Our Product Gallery</h3>
 				</div>
 			</div>
+		</div>
+		<div class="row  popup-gallery">
+
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+				<div class="ed_gallery_member">
+					<div class="ed_gallery_member_img">
+						<a href="assets/images/product-gallery/newgal1.png" title=""><img
+								src="assets/images/product-gallery/newgal1.png" alt="item1" class="img-responsive"></a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div><!-- /.container -->
+</div>
+<!-- gallery section end -->
+<!--client section start -->
+<div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
+	<div class="container">
+		<div class="row">
+			<!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="ed_heading_top ed_bottompadder50">
+					<h3>our partners</h3>
+				</div>
+			</div> -->
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_clientslider">
 					<div id="owl-demo5" class="owl-carousel owl-theme">
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner1.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem1.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner2.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem2.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner3.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem3.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner4.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem6.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner5.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem7.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner1.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem8.png" alt="Partner Img" />
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
-								<img src="assets/images/content/partner2.png" alt="Partner Img" />
+								<img src="assets/images/home-logos/oem9.png" alt="Partner Img" />
 							</a>
 						</div>
+						<div class="item">
+							<a href="#">
+								<img src="assets/images/home-logos/oem10.png" alt="Partner Img" />
+							</a>
+						</div>
+
 					</div>
 				</div>
 			</div>

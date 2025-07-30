@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="page_title">
-					<h2>Pre Engineered Building</h2>
+					<h2>Color Coated Sheets</h2>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12">

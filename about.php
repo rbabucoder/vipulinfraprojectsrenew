@@ -113,12 +113,12 @@
 <!-- Services end -->
 <!--chart section start -->
 <!--chart section start -->
-<div class="ed_transprentbg ed_toppadder100">
+<!-- <div class="ed_transprentbg ed_toppadder100">
 	<div class="container">
 		<div class="row">
 
 			<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-				<div class="ed_chart_ratio">
+				<div class="ed_chart_ratio mvt-container">
 					<i class="fa fa-bus" aria-hidden="true"></i>
 					<h4>OUR MISSION</h4>
 					<p>We are a performance driven company that follow the principle “Grow your business with us” . We provide creative and customized solution for our customers to meet their objective.</p>
@@ -141,40 +141,40 @@
 
 		</div>
 	</div>
-</div>
+</div> -->
 <!-- chart Section end -->
 <!-- chart Section end -->
 <!--skill section start -->
- <!-- <div class="ed_graysection ed_toppadder90 ed_bottompadder60">
+<div class="ed_graysection ed_toppadder90 ed_bottompadder60">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_heading_top ed_bottompadder50">
 					<h3>what we offer</h3>
 				</div>
-			</div>
+			</div> -->
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
-					<h4>trustable</h4>
-					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
+					<h4>2016</h4>
+					<p>Year of Establishment</p>
 					<span><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
-					<h4>support 24x7</h4>
-					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
+					<h4> 350+</h4>
+					<p>Dedicated Employee</p>
 					<span><i class="fa fa-users" aria-hidden="true"></i></span>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
-					<h4>rewards</h4>
-					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
+					<h4>2million + </h4>
+					<p>Complete Square Metal & Continue</p>
 					<span><i class="fa fa-gift" aria-hidden="true"></i></span>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+			<!-- <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
 					<h4>satisfied cost</h4>
 					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
@@ -194,10 +194,10 @@
 					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
 					<span><i class="fa fa-tags" aria-hidden="true"></i></span>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
-</div>   -->
+</div>   
 <!--skill section end -->
 <!--Timer Section three start -->
 <div class="ed_timer_section ed_timer_section_padd_0 ed_toppadder90 ed_bottompadder60">

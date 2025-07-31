@@ -585,39 +585,7 @@ include 'components/header.php';
 </div> -->
 <!--Timer Section three end -->
 <!--Our expertise section one start -->
-<!-- <div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 col-md-12 col-sm-12">
-				<div class="ed_video_section_discription">
-					<h4>about Transporting</h4>
-					<p>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the
-						charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and
-						trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through
-						weakness of will, which is the same as saying through shrinking from toil and pain. These cases
-						are perfectly simple and easy to distinguish. In a free hour, when our power of choice is
-						untrammelled and when nothing prevents our being able to do what we like best, every pleasure is
-						to be welcomed and every pain avoided.</p>
-					<span><a href="about.html" class="btn ed_btn ed_orange">know more</a></span>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12 col-sm-12">
-				<div class="ed_video_section">
-					<div class="embed-responsive embed-responsive-16by9">
-						<div class="ed_video">
-							<img src="assets/images/content/v_bg.jpg" style="cursor:pointer" alt="1" />
-							<div class="ed_img_overlay">
-								<a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-							</div>
-						</div>
-						<iframe id="pro_video" class="embed-responsive-item"
-							src="https://www.youtube.com/embed/LVyIqEuQWRY" allowfullscreen></iframe>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div> -->
+
 <!-- /.container -->
 <!--Our expertise section one end -->
 <!--skill section start -->

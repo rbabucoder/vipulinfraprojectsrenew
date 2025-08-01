@@ -1,139 +1,4 @@
-<!DOCTYPE html>
-<!-- 
-Template Name: Transporting
-Version: 1.0.0
-Author: Kamleshyadav
-Website: http://himanshusofttech.com/
-Purchase: http://themeforest.net/user/kamleshyadav
--->
-<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if !IE]><!-->
-<html lang="en">
-<!--<![endif]-->
-
-<!-- Begin Head -->
-
-<!-- Mirrored from kamleshyadav.com/html/transport/html/bootstrap5/html/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Jul 2025 05:08:14 GMT -->
-<head>
-<meta charset="utf-8" />
-<title>Transporting Multipurpose Responsive HTML Template</title>
-<meta content="width=device-width, initial-scale=1.0" name="viewport" />
-<meta name="description"  content="Transporting"/>
-<meta name="keywords" content="Transporting, html template" />
-<meta name="author"  content="Kamleshyadav"/>
-<meta name="MobileOptimized" content="320" />
-
-<!--srart theme style -->
-<link href="assets/css/main.css" rel="stylesheet" type="text/css"/>
-<!-- end theme style -->
-<!-- favicon links -->
-<link rel="shortcut icon" type="image/png" href="assets/images/header/favicon.png" />
-</head>
-<body>
-<!--Page main section start-->
-<div id="pro_wrapper">
-<!--Header start-->
-<header id="ed_header_wrapper">
-	<div class="ed_header_top">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<div class="pro_call">
-						<p>call now <i class="fa fa-volume-control-phone" aria-hidden="true"></i> 1800-2202-0909</p>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<div class="ed_info_wrapper">
-						<ul>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="ed_header_bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="pro_logo"> <a href="index.html"><img src="assets/images/header/Logo.png" alt="logo" /></a> </div>
-				</div>
-				<div class="col-lg-9 col-md-9 col-sm-9">
-					
-			<div class="pro_menu">
-						<ul>
-							<li class="has_submenu"><a href="#">Home <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="sub-menu sub-menu1">
-									<li><a href="index.html">Home v1</a></li>
-									<li><a href="index_2.html">home v2</a></li>
-									<li><a href="index_3.html">home v3</a></li>
-									<li><a href="index_4.html">home v4</a></li>
-									<li><a href="index_5.html">home v5</a></li>
-									<li><a href="index_6.html">home v6</a></li>
-									<li><a href="https://kamleshyadav.com/html/transport/html/bootstrap5/index7/index_7.html">home v7</a></li>
-								</ul>
-							</li>
-							<li><a href="about.html">about us</a></li>
-							<li class="has_submenu"><a href="javascript:;">Services <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="sub-menu sub-menu1">
-									<li><a href="#">services</a>
-										
-									</li>
-									<li class="menu_hover">
-										<a href="#">services single <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-										<ul class="sub-menu sub_menu_01">
-											<li><a href="services.html">full width</a></li>
-											<li><a href="services_single.html">full width</a></li>
-											<li><a href="services_single_ls.html">left sidebar</a></li>
-											<li><a href="services_single_rs.html">right sidebar</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li  class="has_submenu"><a href="#">blog  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="sub-menu sub-menu1">
-									<li><a href="#">blog large</a></li>
-									<li><a href="#">blog medium </a></li>
-									<li  class="menu_hover"><a href="#">blog single <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-										<ul class="sub-menu sub_menu_01">
-											<li><a href="blog.html">full width</a></li>
-											<li><a href="blog_ls.html">blog left sidebar</a></li>
-											<li><a href="blog_rs.html">blog right sidebar</a></li>
-											<li><a href="blog_single_ls.html">blog left sidebar</a></li>
-											<li><a href="blog_single_rs.html">blog right sidebar</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li><a href="gallery.html">gallery</a></li>
-							<li><a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-								<ul class="sub-menu sub-menu1">
-									<li><a href="team.html">Team</a></li>
-									<li><a href="pricing_table.html">pricing table</a></li>
-									<li><a href="private_policy.html">private policy</a></li>
-									<li><a href="not_found.html">404 error</a></li>
-									<li><a href="faq.html">FAQ</a></li>
-									<li><a href="coming_soon.html">coming soon</a></li>
-								</ul>
-							</li>
-							<li><a href="contact.html">Contact</a></li>
-						</ul>
-							<div class="ed_toggle_bar">
-							<i class="fa fa-bars" aria-hidden="true"></i>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-    </div>
-</header>
-<!--header end -->
+<?php include 'components/header.php'; ?>
 <!--Breadcrumb start-->
 <div class="ed_pagetitle">
 <div class="ed_img_overlay"></div>
@@ -141,14 +6,14 @@ Purchase: http://themeforest.net/user/kamleshyadav
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="page_title">
-					<h2>Contact Us</h2>
+					<h2>Enquiry Now</h2>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<ul class="breadcrumb">
 					<li><a href="index.html">home</a></li>
 					<li>//</li>
-					<li><a href="contact.html">Contact us</a></li>
+					<li><a href="contact.html">Enquiry Now</a></li>
 				</ul>
 			</div>
 		</div>
@@ -186,8 +51,8 @@ Purchase: http://themeforest.net/user/kamleshyadav
 				<div class="ed_event_single_address_info">
 					<h4 class="">We will give you our best</h4>
 					<p class="ed_bottompadder40 ed_toppadder10">You can always reach us via following contact details. We will give our best to reach you as possible.</p>
-					<p>Phone: <span>1800-2202-0909</span></p>
-					<p>Email: <a href="#"><span class="__cf_email__" data-cfemail="422b2c242d023630232c31322d30362b2c25312730342b2127316c212d2f">[email&#160;protected]</span></a></p>
+					<p>Phone: <span>+91-9811178465</span></p>
+					<p>Email: <a href="mailto:info@vipulinfraprojects.com"><span class="__cf_email__">info@vipulinfraprojects.com</span></a></p>
 					<p>Website: <a href="#">http://www.transportingservices.co.in</a></p>
 				</div>
 			</div>
@@ -219,25 +84,29 @@ Purchase: http://themeforest.net/user/kamleshyadav
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<div class="ed_newsletter_section_heading">
-							<h4>Let us inform you about everything important directly.</h4>
+							<h4>We intend to be the company that best understands and offer services for profitability of our customers globally with expertise and innovation.</h4>
 						</div>
 					</div>
-					<div class="col-lg-3"></div>
-	<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-		<form>
-			<div class="ed_newsletter_section_form">
-				<input class="form-control" type="text" placeholder="Newsletter Email" />
-			</div>
-		</form>
-	</div>
-	<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-		<form>
-			<button class="btn ed_btn ed_green">confirm</button>
-		</form>
-	</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-12 d-flex flex-wrap justify-content-center gap-2">
+						<button class="btn ed_btn ed_green">Get a Quote</button>
+						<a href="tel:+91-9811178465" class="btn ed_btn ed_green"> +91-9811178465</a>
+					</div>
+					<!-- <div class="col-lg-3"></div>
+					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+						<form>
+							<div class="ed_newsletter_section_form">
+								<input class="form-control" type="text" placeholder="Newsletter Email" />
+							</div>
+						</form>
+					</div>
+					<div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
+						<form>
+							<button class="btn ed_btn ed_green">confirm</button>
+						</form>
+					</div> -->
 				</div>
 			</div>
-        </div>
+		</div>
 	</div>
 </div>
 <!--Newsletter Section six end-->

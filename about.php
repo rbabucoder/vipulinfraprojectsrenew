@@ -120,6 +120,55 @@
 		</div>
 	</div>
 </div>
+ <div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ed_bottompadder80">
+				<div class="ed_heading_top">
+					<p class="subtitle">Highlights</p>
+					<h3>Why Choose Us</h3>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-12 col-sm-12">
+				<div class="ed_video_section_discription">
+					<h4>IDEOLOGY</h4>
+					<p>Operate with honesty, reliability and integrity Safety and care for people Adaptability and
+						continuous learning with innovation Customer Satisfaction To make a difference ethically and
+						being compliant
+					</p>
+					<h4>CLIENT SATISFACTION</h4>
+					<p>We are a client-centric organization and thus have been able to provide utmost satisfaction to
+						the clients by offering them the perfect products within the stipulated time-frame. We have been
+						able to garner a huge clientele for us due to the excellent-grade services we provide to our
+						customers. The designs and specifications of the products can be modified as per the clients’
+						requirements and are available for them at industry leading prices. Our judicious actions,
+						ethical business policies and honest approaches have helped us to win over the trust and faith
+						of all our clients.
+
+					</p>
+					<!-- <span><a href="about.html" class="btn ed_btn ed_orange">know more</a></span> -->
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-12 col-sm-12">
+				<img src="assets/images/abt2.png" alt="">
+				<!-- <div class="ed_video_section">
+					<div class="embed-responsive embed-responsive-16by9">
+						<div class="ed_video">
+							<img src="assets/images/content/v_bg.jpg" style="cursor:pointer" alt="1" />
+							<div class="ed_img_overlay">
+								<a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+							</div>
+						</div>
+						 <iframe id="pro_video" class="embed-responsive-item"
+							src="https://www.youtube.com/embed/LVyIqEuQWRY" allowfullscreen></iframe> 
+							
+					</div>
+				</div> -->
+			</div>
+		</div>
+	</div>
+</div>
 <!-- Services start -->
 <div class="ed_transprentbg ed_toppadder90 ed_bottompadder60">
 	<div class="container">
@@ -202,16 +251,17 @@
 	</div>
 </div> -->
 <!-- chart Section end -->
+
 <!-- chart Section end -->
 <!--skill section start -->
-<div class="ed_graysection ed_toppadder90 ed_bottompadder60">
+<!-- <div class="ed_graysection ed_toppadder90 ed_bottompadder60">
 	<div class="container">
 		<div class="row">
-			<!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 				<div class="ed_heading_top ed_bottompadder50">
 					<h3>what we offer</h3>
 				</div>
-			</div> -->
+			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
 					<h4>2016</h4>
@@ -233,7 +283,7 @@
 					<span><i class="fa fa-gift" aria-hidden="true"></i></span>
 				</div>
 			</div>
-			<!-- <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+			<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 				<div class="skill_section">
 					<h4>satisfied cost</h4>
 					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
@@ -253,63 +303,15 @@
 					<p>Nam cursus imperdiet elit. Fusce sollicitudin eget nulla in condime.</p>
 					<span><i class="fa fa-tags" aria-hidden="true"></i></span>
 				</div>
-			</div> -->
+			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--skill section end -->
 
-<div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
-	<div class="container">
-		
-		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ed_bottompadder80">
-				<div class="ed_heading_top">
-					<p class="subtitle">Highlights</p>
-					<h3>Why Choose Us</h3>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12 col-sm-12">
-				<div class="ed_video_section_discription">
-					<h4>IDEOLOGY</h4>
-					<p>Operate with honesty, reliability and integrity Safety and care for people Adaptability and
-						continuous learning with innovation Customer Satisfaction To make a difference ethically and
-						being compliant
-					</p>
-					<h4>CLIENT SATISFACTION</h4>
-					<p>We are a client-centric organization and thus have been able to provide utmost satisfaction to
-						the clients by offering them the perfect products within the stipulated time-frame. We have been
-						able to garner a huge clientele for us due to the excellent-grade services we provide to our
-						customers. The designs and specifications of the products can be modified as per the clients’
-						requirements and are available for them at industry leading prices. Our judicious actions,
-						ethical business policies and honest approaches have helped us to win over the trust and faith
-						of all our clients.
 
-					</p>
-					<!-- <span><a href="about.html" class="btn ed_btn ed_orange">know more</a></span> -->
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12 col-sm-12">
-				<img src="assets/images/abt2.png" alt="">
-				<!-- <div class="ed_video_section">
-					<div class="embed-responsive embed-responsive-16by9">
-						<div class="ed_video">
-							<img src="assets/images/content/v_bg.jpg" style="cursor:pointer" alt="1" />
-							<div class="ed_img_overlay">
-								<a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-							</div>
-						</div>
-						 <iframe id="pro_video" class="embed-responsive-item"
-							src="https://www.youtube.com/embed/LVyIqEuQWRY" allowfullscreen></iframe> 
-							
-					</div>
-				</div> -->
-			</div>
-		</div>
-	</div>
-</div>
 <!--Timer Section three start -->
-<div class="ed_timer_section ed_timer_section_padd_0 ed_toppadder90 ed_bottompadder60">
+<!-- <div class="ed_timer_section ed_timer_section_padd_0 ed_toppadder90 ed_bottompadder60">
 	<div class="ed_img_overlay"></div>
 	<div class="container">
 		<div class="row">
@@ -343,10 +345,10 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 <!--Timer Section three end -->
 <!-- Testimonial start -->
-<div class="ed_graysection ed_toppadder90 ed_bottompadder90">
+<!-- <div class="ed_graysection ed_toppadder90 ed_bottompadder90">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ed_bottompadder80">
@@ -406,11 +408,12 @@
 				</div>
 			</div>
 		</div>
-	</div><!-- /.container -->
-</div>
+	</div>
+</div> -->
+<!-- /.container -->
 <!--Testimonial end -->
 <!--client section start -->
-<div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
+<!-- <div class="ed_transprentbg ed_toppadder90 ed_bottompadder90">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -460,8 +463,9 @@
 				</div>
 			</div>
 		</div>
-	</div><!-- /.container -->
-</div>
+	</div>
+</div> -->
+<!-- /.container -->
 <!--client section end -->
 
 <?php include 'components/footer.php'; ?>

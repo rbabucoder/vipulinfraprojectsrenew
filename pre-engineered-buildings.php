@@ -150,8 +150,39 @@
 							<li><a href="#">Color Coated Sheets</a></li>
 						</ul>
 					</aside>
-
 					<aside class="widget widget_archive">
+						<div class="ed_contact_form">
+							<div class="form-group">
+								<input type="text" id="uname" class="form-control" placeholder="Your Name">
+							</div>
+							<div class="form-group">
+								<input type="email" id="umail" class="form-control" placeholder="Your Email">
+							</div>
+							<div class="form-group">
+								<input type="text" id="sub" class="form-control" placeholder="Subject">
+							</div>
+							<div class="form-group">
+								<select class="form-select form-control form-select-lg mb-3"
+									aria-label=".form-select-lg example">
+									<option selected>Select Product</option>
+									<option value="peb">Pre Engineered Building</option>
+									<option value="warehouse">PEB Warehouse</option>
+									<option value="sheetsaccessories">Sheet &amp; Accessories </option>
+									<option value="purlin">Purlin</option>
+									<option value="psb">Prefabricates Steel Buildings</option>
+									<option value="industrialshed">Industrial Sheds </option>
+									<option value="ccs">Color Coated Sheets </option>
+								</select>
+							</div>
+							<div class="form-group">
+								<textarea id="msg" class="form-control" rows="4" placeholder="Message"></textarea>
+							</div>
+							<button id="ed_submit" class="btn ed_btn ed_orange">send</button>
+							<p id="err"></p>
+						</div>
+					</aside>
+
+					<!-- <aside class="widget widget_archive">
 						<h4 class="widget-title">Archives</h4>
 						<ul>
 							<li><a href="#">january 2022 (8)</a></li>
@@ -177,7 +208,7 @@
 						<a href="#" class="ed_btn ed_orange">transport</a>
 						<a href="#" class="ed_btn ed_orange">heavy</a>
 						<a href="#" class="ed_btn ed_orange">warehouse</a>
-					</aside>
+					</aside> -->
 				</div>
 			</div>
 			<!--Sidebar End-->

@@ -399,6 +399,7 @@ include 'components/header.php';
 		</div>
 	</div><!-- /.container -->
 </div>
+
 <!--Our expertise section one end -->
 <div class="ed_transprentbg ed_toppadder100">
 	<div class="container">
@@ -433,7 +434,57 @@ include 'components/header.php';
 		</div>
 	</div>
 </div>
+<!-- Services start -->
+<div class="ed_graysection ed_toppadder90 ed_bottompadder60">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="ed_heading_top ed_bottompadder50">
+					<p>What We Do For You</p>
+					<h3>Services We Offered</h3>
+				</div>
+			</div>
 
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course">
+					<div class="ed_item_img">
+						<img src="assets/images/services/desin.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="course_single.html">Designing</a></h4>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course">
+					<div class="ed_item_img">
+						<img src="assets/images/services/manufacturing.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="course_single.html">Manufacturing</a></h4>
+
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="ed_mostrecomeded_course">
+					<div class="ed_item_img">
+						<img src="assets/images/services/erection.png" alt="item1" class="img-responsive">
+					</div>
+					<div class="ed_item_description ed_most_recomended_data">
+						<h4><a href="course_single.html">Erections</a></h4>
+					</div>
+				</div>
+			</div>
+
+			<!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center ed_toppadder30">
+				<a href="services.html" class="btn ed_btn ed_orange">view more</a>
+			</div> -->
+
+		</div>
+	</div><!-- /.container -->
+</div>
+<!-- Services end -->
 <div class="ed_counter ed_toppadder90 ed_bottompadder90">
 	<div class="container">
 		<div class="row counter_holder" data-wow-duration="1.3s"
@@ -493,57 +544,7 @@ include 'components/header.php';
 	</div>
 </div>
 <!-- chart Section end -->
-<!-- Services start -->
-<div class="ed_graysection ed_toppadder90 ed_bottompadder60">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-				<div class="ed_heading_top ed_bottompadder50">
-					<p>What We Do For You</p>
-					<h3>Services We Offered</h3>
-				</div>
-			</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-				<div class="ed_mostrecomeded_course">
-					<div class="ed_item_img">
-						<img src="assets/images/services/desin.png" alt="item1" class="img-responsive">
-					</div>
-					<div class="ed_item_description ed_most_recomended_data">
-						<h4><a href="course_single.html">Designing</a></h4>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-				<div class="ed_mostrecomeded_course">
-					<div class="ed_item_img">
-						<img src="assets/images/services/manufacturing.png" alt="item1" class="img-responsive">
-					</div>
-					<div class="ed_item_description ed_most_recomended_data">
-						<h4><a href="course_single.html">Manufacturing</a></h4>
-
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-				<div class="ed_mostrecomeded_course">
-					<div class="ed_item_img">
-						<img src="assets/images/services/erection.png" alt="item1" class="img-responsive">
-					</div>
-					<div class="ed_item_description ed_most_recomended_data">
-						<h4><a href="course_single.html">Erections</a></h4>
-					</div>
-				</div>
-			</div>
-
-			<!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center ed_toppadder30">
-				<a href="services.html" class="btn ed_btn ed_orange">view more</a>
-			</div> -->
-
-		</div>
-	</div><!-- /.container -->
-</div>
-<!-- Services end -->
 <!--Timer Section three start -->
 <!-- <div class="ed_timer_section ed_toppadder90 ed_bottompadder60">
 	<div class="ed_img_overlay"></div>

@@ -18,7 +18,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 
 <head>
 	<meta charset="utf-8" />
-	<title>Transporting Multipurpose Responsive HTML Template</title>
+	<title>PEB Manufacturers & Pre Engineered Building in Delhi | India</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 	<meta name="description" content="Transporting" />
 	<meta name="keywords" content="Transporting, html template" />

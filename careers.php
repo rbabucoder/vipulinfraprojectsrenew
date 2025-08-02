@@ -186,7 +186,9 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12">
 					<div class="ed_copy_right">
-						<p>&copy; Copyright 2022, All Rights Reserved, <a href="#">TRANSPORT</a></p>
+						<p>&copy; Copyright 2022, All Rights Reserved, <a
+								href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/">Vipulinfraprojects</a>
+						</p>
 					</div>
 				</div>
 			</div>

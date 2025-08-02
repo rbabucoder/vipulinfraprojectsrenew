@@ -69,7 +69,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-4">
-							<div class="pro_logo"> <a href="/"><img src="assets/images/header/Logo_yellow.png"
+							<div class="pro_logo"> <a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/"><img src="assets/images/header/Logo_yellow.png"
 										alt="logo" /></a> </div>
 						</div>
 						<div class="col-lg-9 col-md-9 col-sm-9">
@@ -92,7 +92,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 													v7</a></li>
 										</ul>
 									</li> -->
-									<li><a href="/">Home</a></li>
+									<li><a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/">Home</a></li>
 									<li><a href="about.php">about us</a></li>
 									<li class="has_submenu"><a href="javascript:;">Products <i class="fa fa-angle-down"
 												aria-hidden="true"></i></a>

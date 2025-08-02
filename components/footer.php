@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
-						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" alt="Footer Logo" /></a>
+						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" class="footer_logo" alt="Footer Logo" /></a>
 						</p>
 						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the
 							unique needs of our valued clients. Our commitment is to provide comprehensive and tailored

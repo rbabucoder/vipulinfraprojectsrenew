@@ -37,7 +37,8 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
-						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" class="footer_logo" alt="Footer Logo" /></a>
+						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" class="footer_logo"
+									alt="Footer Logo" /></a>
 						</p>
 						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the
 							unique needs of our valued clients. Our commitment is to provide comprehensive and tailored
@@ -59,7 +60,7 @@
 						</div>
 					</div>
 				</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
+				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">quick links</h4>
 						<div class="ed_footer_menu">
@@ -89,7 +90,7 @@
 						</div>
 					</div>
 				</div>
-			
+
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
@@ -98,7 +99,9 @@
 						<p><i class="fa fa-envelope" aria-hidden="true"></i>
 							<a href="#">info@vipulinfraprojects.com</a>
 						</p>
-						<p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+91-9811178465">+91-9811178465</a>,  <a href="tel:+91- 9811395100">+91- 9811395100</a></p>
+						<p><i class="fa fa-phone" aria-hidden="true"></i> <a
+								href="tel:+91-9811178465">+91-9811178465</a>, <a href="tel:+91- 9811395100">+91-
+								9811395100</a></p>
 					</div>
 				</div>
 			</div>

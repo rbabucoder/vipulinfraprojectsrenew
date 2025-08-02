@@ -117,31 +117,17 @@
 						</p>
 						<div class="ed_sociallink">
 							<ul>
-								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
+								<li><a href="https://www.facebook.com/people/Vipul-Infra-Projects/100057865441036/"
+										data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
 											class="fa fa-facebook" aria-hidden="true"></i></a></li>
-								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
-											class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+								<!-- <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
+											class="fa fa-google-plus" aria-hidden="true"></i></a></li> -->
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i
 											class="fa fa-twitter" aria-hidden="true"></i></a></li>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i
 											class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Whatsapp"><i
 											class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-12">
-					<div class="widget text-widget">
-						<h4 class="widget-title">services</h4>
-						<div class="ed_footer_menu">
-							<ul>
-								<li><a href="#">Logistic</a></li>
-								<li><a href="#">Warehousing</a></li>
-								<li><a href="#">Ground Transport</a></li>
-								<li><a href="#">Packaging & Storage</a></li>
-								<li><a href="#">Door-To-Door Delivery</a></li>
-							</ul>
 						</div>
 					</div>
 				</div>
@@ -150,11 +136,27 @@
 						<h4 class="widget-title">quick links</h4>
 						<div class="ed_footer_menu">
 							<ul>
-								<li><a href="index.html">home</a></li>
-								<li><a href="about.html">about</a></li>
-								<li><a href="gallery.html">gallery</a></li>
-								<li><a href="contact.html">contact us</a></li>
-								<li><a href="private_policy.html">private policy</a></li>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="about.html">About Us</a></li>
+								<li><a href="gallery.html">Our Products</a></li>
+								<li><a href="contact.html">Our Projects</a></li>
+								<li><a href="private_policy.html">Contact Us</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="widget text-widget">
+						<h4 class="widget-title">Our Products</h4>
+						<div class="ed_footer_menu">
+							<ul>
+								<li><a href="#">Pre Engineered Building</a></li>
+								<li><a href="#">PEB Warehouse</a></li>
+								<li><a href="#">Sheet & Accessories</a></li>
+								<li><a href="#">Purlin</a></li>
+								<li><a href="#">Prefabricates Steel Buildings</a></li>
+								<li><a href="#">Industrial Sheds</a></li>
+								<li><a href="#">Color Coated Sheets</a></li>
 							</ul>
 						</div>
 					</div>
@@ -164,12 +166,12 @@
 						<h4 class="widget-title">find us</h4>
 						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana
 							121102, India</p>
-						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__"
-									data-cfemail="147d7a727b546066757a67647b66607d7a73677166627d7771673a777b79">[email&#160;protected]</span></a>
-							<a href="#"><span class="__cf_email__"
-									data-cfemail="cababfa8a6a3a98abeb8aba4b9baa5b8bea3a4adb9afb8bca3a9afb9e4a9a5e4a3a4">[email&#160;protected]</span></a>
+						<p><i class="fa fa-envelope" aria-hidden="true"></i>
+							<a href="#">info@vipulinfraprojects.com</a>
 						</p>
-						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
+						<p><i class="fa fa-phone" aria-hidden="true"></i> <a
+								href="tel:+91-9811178465">+91-9811178465</a>, <a href="tel:+91- 9811395100">+91-
+								9811395100</a></p>
 					</div>
 				</div>
 			</div>

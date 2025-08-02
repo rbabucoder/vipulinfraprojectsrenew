@@ -74,7 +74,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 									<li><a href="index_4.html">home v4</a></li>
 									<li><a href="index_5.html">home v5</a></li>
 									<li><a href="index_6.html">home v6</a></li>
-									<!-- <li><a href="../transport_final/Transport_html/index_7.html">home v7</a></li> -->
+									<li><a href="../transport_final/Transport_html/index_7.html">home v7</a></li>
 									<li><a href="https://kamleshyadav.com/html/transport/html/bootstrap5/index7/index_7.html">home v7</a></li>
 								</ul>
 							</li>
@@ -111,7 +111,13 @@ Purchase: http://themeforest.net/user/kamleshyadav
 								</ul>
 							</li>
 							<li><a href="gallery.html">gallery</a></li>
-							<li><a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+							<li><a href="#">Contact Us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+								<ul class="sub-menu sub-menu1">
+									<li><a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/enquiry.php">Enquiry</a></li>
+									<li><a href="https://www.vipulinfraprojects.com/assets/images/COMPANY%20PROFILE(VIP).pdf">E-Catalogue </a></li>
+									<li><a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/careers.php">Careers</a></li>
+								</ul>
+							<!-- <li><a href="#">Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 								<ul class="sub-menu sub-menu1">
 									<li><a href="team.html">Team</a></li>
 									<li><a href="pricing_table.html">pricing table</a></li>
@@ -119,7 +125,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 									<li><a href="not_found.html">404 error</a></li>
 									<li><a href="faq.html">FAQ</a></li>
 									<li><a href="coming_soon.html">coming soon</a></li>
-								</ul>
+								</ul> -->
 							</li>
 							<li><a href="contact.html">Contact</a></li>
 						</ul>

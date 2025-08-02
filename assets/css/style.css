@@ -1144,7 +1144,8 @@ a.ed_getinvolved:hover i {
 .ed_video_section_discription p {
   padding: 10px 0px 0px 0px;
   text-align: justify;
-  font-size: 24px;
+  /* font-size: 24px; */
+  font-size: 1rem;
 }
 .ed_video_section_discription span {
   float: left;

@@ -3,7 +3,9 @@
   height: 100%;
 }
 
-
+.menu_fixed {
+    width: 100%;
+}
 
 /*=================Counter Style==================*/
 .cs_counter_wrapper{

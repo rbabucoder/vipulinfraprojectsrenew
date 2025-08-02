@@ -147,7 +147,9 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<p><a href="index.html"><img src="assets/images/footer/F_Logo.png" alt="Footer Logo" /></a></p>
-						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the unique needs of our valued clients. Our commitment is to provide comprehensive and tailored services, ensuring excellence and reliability in every project.</p>
+						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the
+							unique needs of our valued clients. Our commitment is to provide comprehensive and tailored
+							services, ensuring excellence and reliability in every project.</p>
 						<div class="ed_sociallink">
 							<ul>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
@@ -195,7 +197,8 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
-						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana 121102, India</p>
+						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana
+							121102, India</p>
 						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__"
 									data-cfemail="fa93949c95ba8e889b94898a95888e93949d899f888c93999f89d4999597">info@vipulinfraprojects.com</span></a>
 							<a href="#"><span class="__cf_email__"

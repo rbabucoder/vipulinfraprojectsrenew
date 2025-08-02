@@ -129,55 +129,7 @@
 			<!--Sidebar Start-->
 			<div class="col-lg-3 col-md-12 col-sm-12">
 				<div class="sidebar_wrapper sidebar_wrapper_01">
-					<!-- <aside class="widget widget_search">
-						<div class="input-group">
-							<input type="text" class="form-control" placeholder="Search...">
-							<span class="input-group-btn">
-								<button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
-							</span>
-						</div>
-					</aside> -->
-
-					<aside class="widget widget_categories">
-						<h4 class="widget-title">Our Recent Products</h4>
-						<ul>
-							<li><a href="#">Pre Engineered Building</a></li>
-							<li><a href="#">PEB Warehouse</a></li>
-							<li><a href="#">Sheet & Accessories</a></li>
-							<li><a href="#">Purlin</a></li>
-							<li><a href="#">Prefabricates Steel Buildings</a></li>
-							<li><a href="#">Industrial Sheds</a></li>
-							<li><a href="#">Color Coated Sheets</a></li>
-						</ul>
-					</aside>
-
-					<aside class="widget widget_archive">
-						<h4 class="widget-title">Archives</h4>
-						<ul>
-							<li><a href="#">january 2022 (8)</a></li>
-							<li><a href="#">february 2022 (6)</a></li>
-							<li><a href="#">December 2022 (5)</a></li>
-							<li><a href="#">October 2022 (3)</a></li>
-							<li><a href="#">May 2022 (8)</a></li>
-							<li><a href="#">August 2022 (7)</a></li>
-						</ul>
-					</aside>
-
-					<aside class="widget widget_calendar">
-						<h4 class="widget-title">calendar</h4>
-						<div class="jquery-calendar"></div>
-					</aside>
-
-					<aside class="widget widget_tag_cloud">
-						<h4 class="widget-title">Search by Tags</h4>
-						<a href="#" class="ed_btn ed_orange">trucks</a>
-						<a href="#" class="ed_btn ed_orange">crane</a>
-						<a href="#" class="ed_btn ed_orange">freight</a>
-						<a href="#" class="ed_btn ed_orange">distribution</a>
-						<a href="#" class="ed_btn ed_orange">transport</a>
-						<a href="#" class="ed_btn ed_orange">heavy</a>
-						<a href="#" class="ed_btn ed_orange">warehouse</a>
-					</aside>
+					<?php include 'components/sidebar.php'; ?>
 				</div>
 			</div>
 			<!--Sidebar End-->

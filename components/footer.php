@@ -42,10 +42,10 @@
 							and impotent.</p>
 						<div class="ed_sociallink">
 							<ul>
-								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
+								<li><a href="https://www.facebook.com/people/Vipul-Infra-Projects/100057865441036/" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
 											class="fa fa-facebook" aria-hidden="true"></i></a></li>
-								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
-											class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+								<!-- <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
+											class="fa fa-google-plus" aria-hidden="true"></i></a></li> -->
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i
 											class="fa fa-twitter" aria-hidden="true"></i></a></li>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i
@@ -108,7 +108,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="ed_copy_right">
-					<p>&copy; Copyright 2022, All Rights Reserved, <a href="#">TRANSPORT</a></p>
+					<p>&copy; Copyright 2022, All Rights Reserved, <a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/">Vipulinfraprojects</a></p>
 				</div>
 			</div>
 		</div>

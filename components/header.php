@@ -42,17 +42,17 @@ Purchase: http://themeforest.net/user/kamleshyadav
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="pro_call">
-								<p>call now <i class="fa fa-volume-control-phone" aria-hidden="true"></i> 1800-2202-0909
+								<p>call now <i class="fa fa-volume-control-phone" aria-hidden="true"></i> +91-9811178465
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="ed_info_wrapper">
 								<ul>
-									<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
+									<li><a href="https://www.facebook.com/people/Vipul-Infra-Projects/100057865441036/" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
 												class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
-												class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+									<!-- <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
+												class="fa fa-google-plus" aria-hidden="true"></i></a></li> -->
 									<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i
 												class="fa fa-twitter" aria-hidden="true"></i></a></li>
 									<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i
@@ -69,8 +69,8 @@ Purchase: http://themeforest.net/user/kamleshyadav
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-4">
-							<div class="pro_logo"> <a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/"><img src="assets/images/header/Logo_yellow.png"
-										alt="logo" /></a> </div>
+							<div class="pro_logo"> <a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/"><img src="assets/images/header/logovipul.png"
+										alt="logo"  /></a> </div>
 						</div>
 						<div class="col-lg-9 col-md-9 col-sm-9">
 							<div class="pro_menu">

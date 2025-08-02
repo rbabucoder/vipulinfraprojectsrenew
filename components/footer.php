@@ -59,45 +59,46 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 col-sm-12">
-					<div class="widget text-widget">
-						<h4 class="widget-title">services</h4>
-						<div class="ed_footer_menu">
-							<ul>
-								<li><a href="#">Logistic</a></li>
-								<li><a href="#">Warehousing</a></li>
-								<li><a href="#">Ground Transport</a></li>
-								<li><a href="#">Packaging & Storage</a></li>
-								<li><a href="#">Door-To-Door Delivery</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">quick links</h4>
 						<div class="ed_footer_menu">
 							<ul>
-								<li><a href="index.html">home</a></li>
-								<li><a href="about.html">about</a></li>
-								<li><a href="gallery.html">gallery</a></li>
-								<li><a href="contact.html">contact us</a></li>
-								<li><a href="private_policy.html">private policy</a></li>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="about.html">About Us</a></li>
+								<li><a href="gallery.html">Our Products</a></li>
+								<li><a href="contact.html">Our Projects</a></li>
+								<li><a href="private_policy.html">Contact Us</a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="widget text-widget">
+						<h4 class="widget-title">Our Products</h4>
+						<div class="ed_footer_menu">
+							<ul>
+								<li><a href="#">Pre Engineered Building</a></li>
+								<li><a href="#">PEB Warehouse</a></li>
+								<li><a href="#">Sheet & Accessories</a></li>
+								<li><a href="#">Purlin</a></li>
+								<li><a href="#">Prefabricates Steel Buildings</a></li>
+								<li><a href="#">Industrial Sheds</a></li>
+								<li><a href="#">Color Coated Sheets</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
 						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana
 							121102, India</p>
-						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__"
-									data-cfemail="442d2a222b043036252a37342b36302d2a23372136322d2721376a272b29">info@vipulinfraprojects.com</span></a>
-							<a href="#"><span class="__cf_email__"
-									data-cfemail="c8b8bdaaa4a1ab88bcbaa9a6bbb8a7babca1a6afbbadbabea1abadbbe6aba7e6a1a6">info@vipulinfraprojects.com</span></a>
+						<p><i class="fa fa-envelope" aria-hidden="true"></i>
+							<a href="#">info@vipulinfraprojects.com</a>
 						</p>
-						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
+						<p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+91-9811178465">+91-9811178465</a>,  <a href="tel:+91- 9811395100">+91- 9811395100</a></p>
 					</div>
 				</div>
 			</div>

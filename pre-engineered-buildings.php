@@ -147,9 +147,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<p><a href="index.html"><img src="assets/images/footer/F_Logo.png" alt="Footer Logo" /></a></p>
-						<p>Transportation is the center of the world! It is the glue of our daily lives. When it goes
-							well, we don't see it. When it goes wrong, it negatively colors our day, makes us feel angry
-							and impotent.</p>
+						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the unique needs of our valued clients. Our commitment is to provide comprehensive and tailored services, ensuring excellence and reliability in every project.</p>
 						<div class="ed_sociallink">
 							<ul>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i

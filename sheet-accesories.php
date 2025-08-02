@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-lg-12 col-md-12 col-sm-12">
 				<div class="page_title">
-					<h2>Pre Engineered Building</h2>
+					<h2>Sheet & Accessories</h2>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12">
@@ -16,7 +16,7 @@
 					<li>//</li>
 					<li><a href="services.html">services</a></li>
 					<li>//</li>
-					<li><a href="services_single_rs.html">Pre Engineered Building</a></li>
+					<li><a href="services_single_rs.html">Sheet & Accessories</a></li>
 				</ul>
 			</div>
 		</div>
@@ -34,7 +34,7 @@
 							<img src="assets/images/content/price_bg.jpg" alt="blog image" />
 						</div>
 						<div class="ed_blog_info">
-							<h2>Pre Engineered Building</h2>
+							<h2>Sheet & Accessories </h2>
 							<!-- <ul>
 								<li><a href="#"><i class="fa fa-user"></i> james marco</a></li>
 								<li><a href="#"><i class="fa fa-clock-o"></i> March 22, 2022</a></li>
@@ -147,9 +147,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<p><a href="index.html"><img src="assets/images/footer/F_Logo.png" alt="Footer Logo" /></a></p>
-						<p>Transportation is the center of the world! It is the glue of our daily lives. When it goes
-							well, we don't see it. When it goes wrong, it negatively colors our day, makes us feel angry
-							and impotent.</p>
+						<p>At Vipul Infra Systems, we offer a wide range of high-quality products designed to meet the unique needs of our valued clients. Our commitment is to provide comprehensive and tailored services, ensuring excellence and reliability in every project.</p>
 						<div class="ed_sociallink">
 							<ul>
 								<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i

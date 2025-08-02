@@ -141,7 +141,7 @@
 					<p>We are a client-centric organization and thus have been able to provide utmost satisfaction to
 						the clients by offering them the perfect products within the stipulated time-frame. We have been
 						able to garner a huge clientele for us due to the excellent-grade services we provide to our
-						customers. The designs and specifications of the products can be modified as per the clients’
+						customers. <br /> The designs and specifications of the products can be modified as per the clients’
 						requirements and are available for them at industry leading prices. Our judicious actions,
 						ethical business policies and honest approaches have helped us to win over the trust and faith
 						of all our clients.

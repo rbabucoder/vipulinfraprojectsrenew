@@ -108,7 +108,7 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
-						<p><a href="index.html"><img src="assets/images/footer/F_Logo.png" alt="Footer Logo" /></a></p>
+						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" alt="Footer Logo"  class="footer_logo" /></a></p>
 						<p>Transportation is the center of the world! It is the glue of our daily lives. When it goes well, we don't see it. When it goes wrong, it negatively colors our day, makes us feel angry and impotent.</p>
 						<div class="ed_sociallink">
 						<ul>
@@ -152,7 +152,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
-						<p><i class="fa fa-home" aria-hidden="true"></i> 141 N Prospect Ave, Bergenfield, NJ, 07621</p>
+						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana 121102, India</p>
 						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__" data-cfemail="147d7a727b546066757a67647b66607d7a73677166627d7771673a777b79">[email&#160;protected]</span></a> <a href="#"><span class="__cf_email__" data-cfemail="cababfa8a6a3a98abeb8aba4b9baa5b8bea3a4adb9afb8bca3a9afb9e4a9a5e4a3a4">[email&#160;protected]</span></a></p>
 						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
 					</div>

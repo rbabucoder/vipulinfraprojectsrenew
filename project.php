@@ -167,8 +167,8 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
-						<p><i class="fa fa-home" aria-hidden="true"></i> 141 N Prospect Ave, Bergenfield, NJ, 07621</p>
-						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__" data-cfemail="1d74737b725d696f7c736e6d726f6974737a6e786f6b747e786e337e7270">[email&#160;protected]</span></a> <a href="#"><span class="__cf_email__" data-cfemail="4a3a3f282623290a3e382b24393a25383e23242d392f383c23292f39642925642324">[email&#160;protected]</span></a></p>
+						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana 121102, India</p>
+						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__" data-cfemail="1d74737b725d696f7c736e6d726f6974737a6e786f6b747e786e337e7270">info@vipulinfraprojects.com</span></a> <a href="#"><span class="__cf_email__" data-cfemail="4a3a3f282623290a3e382b24393a25383e23242d392f383c23292f39642925642324">info@vipulinfraprojects.com</span></a></p>
 						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
 					</div>
 				</div>

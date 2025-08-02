@@ -5,7 +5,8 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<div class="ed_newsletter_section_heading">
-							<h4>We intend to be the company that best understands and offer services for profitability of our customers globally with expertise and innovation.</h4>
+							<h4>We intend to be the company that best understands and offer services for profitability
+								of our customers globally with expertise and innovation.</h4>
 						</div>
 					</div>
 					<div class="col-lg-12 col-md-12 col-sm-12 col-12 d-flex flex-wrap justify-content-center gap-2">
@@ -36,13 +37,15 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
-						<p><a href="index.html"><img src="assets/images/footer/F_Logo.png" alt="Footer Logo" /></a></p>
+						<p><a href="index.html"><img src="assets/images/footer/logovipul.png" alt="Footer Logo" /></a>
+						</p>
 						<p>Transportation is the center of the world! It is the glue of our daily lives. When it goes
 							well, we don't see it. When it goes wrong, it negatively colors our day, makes us feel angry
 							and impotent.</p>
 						<div class="ed_sociallink">
 							<ul>
-								<li><a href="https://www.facebook.com/people/Vipul-Infra-Projects/100057865441036/" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
+								<li><a href="https://www.facebook.com/people/Vipul-Infra-Projects/100057865441036/"
+										data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
 											class="fa fa-facebook" aria-hidden="true"></i></a></li>
 								<!-- <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i
 											class="fa fa-google-plus" aria-hidden="true"></i></a></li> -->
@@ -87,11 +90,12 @@
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
-						<p><i class="fa fa-home" aria-hidden="true"></i> 141 N Prospect Ave, Bergenfield, NJ, 07621</p>
+						<p><i class="fa fa-home" aria-hidden="true"></i> Khasra No. 47/21, 48/25, Patli Khurd, Haryana
+							121102, India</p>
 						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#"><span class="__cf_email__"
-									data-cfemail="442d2a222b043036252a37342b36302d2a23372136322d2721376a272b29">[email&#160;protected]</span></a>
+									data-cfemail="442d2a222b043036252a37342b36302d2a23372136322d2721376a272b29">info@vipulinfraprojects.com</span></a>
 							<a href="#"><span class="__cf_email__"
-									data-cfemail="c8b8bdaaa4a1ab88bcbaa9a6bbb8a7babca1a6afbbadbabea1abadbbe6aba7e6a1a6">[email&#160;protected]</span></a>
+									data-cfemail="c8b8bdaaa4a1ab88bcbaa9a6bbb8a7babca1a6afbbadbabea1abadbbe6aba7e6a1a6">info@vipulinfraprojects.com</span></a>
 						</p>
 						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
 					</div>
@@ -105,41 +109,80 @@
 <div class="ed_footer_bottom">
 	<div class="container">
 		<div class="col-lg-12 col-md-12 col-sm-12">
-		<div class="row">
-			<div class="col-lg-12 col-md-12 col-sm-12">
-				<div class="ed_copy_right">
-					<p>&copy; Copyright 2022, All Rights Reserved, <a href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/">Vipulinfraprojects</a></p>
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<div class="ed_copy_right">
+						<p>&copy; Copyright 2022, All Rights Reserved, <a
+								href="https://www.vipulinfraprojects.com/vipulinfraprojectsrenew/">Vipulinfraprojects</a>
+						</p>
+					</div>
 				</div>
 			</div>
-		</div>
 		</div>
 	</div>
 </div>
 <!--Footer Bottom section end-->
 </div>
 <!--Page main section end-->
-<!--main js file start--> 
-<script data-cfasync="false" src="assets/js/email-decode.min.js"></script><script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/jquery.min.js"></script> 
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/bootstrap.js"></script> 
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/modernizr.js"></script> 
+<!--main js file start-->
+<script data-cfasync="false" src="assets/js/email-decode.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/jquery.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/bootstrap.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/modernizr.js"></script>
 <script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/owl.carousel.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/smooth-scroll.js"></script> 
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/jquery.magnific-popup.js"></script> 
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/jquery.themepunch.tools.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/jquery.themepunch.revolution.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.actions.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.carousel.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.kenburn.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.layeranimation.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.navigation.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.parallax.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.slideanims.min.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/revel/revolution.extension.video.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/smooth-scroll.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/jquery.magnific-popup.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/jquery.themepunch.tools.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/jquery.themepunch.revolution.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.actions.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.carousel.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.kenburn.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.layeranimation.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.navigation.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.parallax.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.slideanims.min.js"></script>
+<script type="ad7fb7cacb9213f14485f90e-text/javascript"
+	src="assets/js/plugins/revel/revolution.extension.video.min.js"></script>
 <script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/countto/jquery.countTo.js"></script>
 <script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/plugins/countto/jquery.appear.js"></script>
-<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/custom.js"></script> 
+<script type="ad7fb7cacb9213f14485f90e-text/javascript" src="assets/js/custom.js"></script>
+<script type="898f56669753268576dd1587-text/javascript" src="assets/js/gmaps.js"></script>
+<!-- <script type="898f56669753268576dd1587-text/javascript" src="assets/js/custom.js"></script> -->
 <!--main js file end-->
-<script src="assets/js/rocket-loader.min.js" data-cf-settings="ad7fb7cacb9213f14485f90e-|49" defer></script></body>
+<script type="898f56669753268576dd1587-text/javascript">
+	var map;
+	$(document).ready(function(){
+	  map = new GMaps({
+		el: '#map',
+		zoom: 16,
+		lat: 45.996668,
+		lng: 8.905215,
+		scrollwheel: false,
+		draggable:false,
+		zoomControl: false,
+		navigationControl: false,
+		mapTypeControl: false,
+		scaleControl: false,
+		disableDoubleClickZoom: true,
+		streetViewControl : false,
+		overviewMapControl: false,
+		panControl : false
+	  });
+   
+	});
+  </script>
+<script src="assets/js/rocket-loader.min.js" data-cf-settings="ad7fb7cacb9213f14485f90e-|49" defer></script>
+</body>
 
 <!-- Mirrored from kamleshyadav.com/html/transport/html/bootstrap5/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 28 Jul 2025 05:07:31 GMT -->
+
 </html>
